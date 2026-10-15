@@ -1,0 +1,14 @@
+E:\notpad++\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.exe
+E:\notpad++\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.deps.json
+E:\notpad++\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.runtimeconfig.json
+E:\notpad++\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.dll
+E:\notpad++\EduHub.Ch01\bin\Debug\net10.0\EduHub.Ch01.pdb
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.GeneratedMSBuildEditorConfig.editorconfig
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.AssemblyInfoInputs.cache
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.AssemblyInfo.cs
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.csproj.CoreCompileInputs.cache
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.dll
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\refint\EduHub.Ch01.dll
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.pdb
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\EduHub.Ch01.genruntimeconfig.cache
+E:\notpad++\EduHub.Ch01\obj\Debug\net10.0\ref\EduHub.Ch01.dll
